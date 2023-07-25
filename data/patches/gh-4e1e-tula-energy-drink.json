@@ -1,0 +1,67 @@
+{
+	"id": -1,
+	"name": "Tula Energy Drink",
+	"description": "\"Tula\" is the name given to a Chilean energy drink. Initially, it started as a meme back in the distant year of 2007, when a group of friends created a humorous video for a school project, featuring a mock commercial for the drink. The joke revolves around the fact that \"Tula\" is a slang term used in Chile to refer to the male reproductive organ. Years later, in 2019, a company began marketing this beverage under the curious name.",
+	"links": {
+		"website": [
+			"https://www.youtube.com/watch?v=XTfHtioStrk"
+		],
+		"subreddit": [
+			"chile"
+		]
+	},
+	"path": {
+		"127-248": [
+			[
+				-854,
+				-784
+			],
+			[
+				-859,
+				-784
+			],
+			[
+				-859,
+				-783
+			],
+			[
+				-861,
+				-783
+			],
+			[
+				-863,
+				-781
+			],
+			[
+				-863,
+				-762
+			],
+			[
+				-859,
+				-759
+			],
+			[
+				-853,
+				-759
+			],
+			[
+				-850,
+				-762
+			],
+			[
+				-850,
+				-782
+			],
+			[
+				-854,
+				-784
+			]
+		]
+	},
+	"center": {
+		"127-248": [
+			-856,
+			-771
+		]
+	}
+}
